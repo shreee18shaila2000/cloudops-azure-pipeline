@@ -1,0 +1,12 @@
+{
+  "name": "enterprise-cloudops-app",
+  "version": "1.0.0",
+  "description": "A node application for demonstrating containerized deployment and self-healing loops.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
