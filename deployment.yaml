@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: production-app-container
-        image: REPLACE_WITH_ACR_NAME.azurecr.io/cloudops-app:latest
+        image: REPLACE_WITH_ACR_NAME.azurecr.io/coudops-app:latest
         ports:
         - containerPort: 8080
         livenessProbe:
